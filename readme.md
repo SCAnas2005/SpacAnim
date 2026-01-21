@@ -1,6 +1,6 @@
-# SpacAnime
+# SpacAnim
 
-SpacAnime est un jeu de tir spatial (Space Shooter) en 2D développé en Python. Pilotez votre vaisseau, évitez les champs d'astéroïdes, luttez contre la gravité des trous noirs et survivez le plus longtemps possible dans l'espace infini.
+SpacAnim est un jeu de tir spatial (Space Shooter) en 2D développé en Python. Pilotez votre vaisseau, évitez les champs d'astéroïdes, luttez contre la gravité des trous noirs et survivez le plus longtemps possible dans l'espace infini.
 
 ## Prérequis
 
