@@ -77,6 +77,8 @@ class Spaceship:
         self.forward_dir = vec2(math.cos(math.radians(self.angle)), math.sin(math.radians(self.angle)))
         self.right_dir = vec2(-self.forward_dir.y, self.forward_dir.x) 
 
+        self.engine_idle_channel.play(self.engine_idle_sound, loops=-1)
+
         self.animated_sprite.play("idle")
 
     def create_animation(self):
